@@ -17,7 +17,11 @@
 </template>
 
 <script>
-export default {};
+export default {
+  data: () => ({
+    sheet: false
+  })
+};
 </script>
 
 <style></style>

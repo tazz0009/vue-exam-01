@@ -27,6 +27,12 @@ const routes = [
     name: "slot_test",
     component: () =>
       import(/* webpackChunkName: "about" */ "../views/SlotTest.vue")
+  },
+  {
+    path: "/dialog_test",
+    name: "dialog_test",
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/DialogTest.vue")
   }
 ];
 

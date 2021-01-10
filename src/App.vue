@@ -79,7 +79,7 @@ export default {
       { text: "About", icon: "info", to: "about" },
       { text: "Aspect ratios", icon: "mdi-star", to: "aspect_ratios" },
       { text: "Slot Test", icon: "mdi-history", to: "slot_test" },
-      { text: "Offline", icon: "mdi-check-circle", to: "ccc" },
+      { text: "Dialog", icon: "textsms", to: "dialog_test" },
       { text: "Uploads", icon: "mdi-upload", to: "ddd" },
       { text: "Backups", icon: "mdi-cloud-upload", to: "eee" }
     ]
